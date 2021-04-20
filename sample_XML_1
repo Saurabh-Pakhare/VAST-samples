@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+ <Ad id="697203496">
+  <InLine>
+   <AdSystem>GDFP</AdSystem>
+   <AdTitle>External NCA1C1L1 Linear Inline</AdTitle>
+   <Description><![CDATA[External NCA1C1L1 Linear Inline ad]]></Description>
+   <Error><![CDATA[https://pubads.g.doubleclick.net/pagead/conversion/?ai=BuBIvCrkrX9r_JZekrtoPv5eH8Arw2I_rBgAAABABIKjduyY4AFjYxrLF1wFg5YKAgLwOugEKNzI4eDkwX3htbMgBBcACAuACAOoCJS8xMjQzMTkwOTYvZXh0ZXJuYWwvc2luZ2xlX2FkX3NhbXBsZXP4AoPSHoADAZADmgiYA6wCqAMB4AQB0gUGEKj2ucwCoAYjiAcBkAcCqAfs1RuoB_PRG6gHltgbqAfC2hvYBwHgBwvACAHSCAYIABACGB3YCAKYCwE&sigh=iyV2QVQGPRs&label=videoplayfailed[ERRORCODE]]]></Error>
+   <Impression><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvCaeXJLMUHovnFDjCx1Sbc66JB25i5LCqMRz4O37q_hsk5lypRO0a-D0FXqqIjt0iDH8H36-nk06JQ-8v_3mpFADGXGZ3knZWcSHEnEBHWhKapIeIlBNnOzjaB1kSfqE790DrQUAZ0DTwpoLcv_W8mGyXqkh-M1UMOo8Kah00-cKA1jabugkBSUT2xBX61x3jYotFl9tt-Nu5GJpAI9ypoH4CpxWPgt1G81yIuRocfGzTj1dhXdBx-XwfYCb1q-w&sai=AMfl-YQIwaKd8o3hqvlR6v4eWyQcr2obNCZK70HfRBZKFVh0w1IpDCUH4VmmrwNnoRidEl99Kx6TVHA7JBTtxTRo5ASJK53ny66wGGT-a-zBc9tW&sig=Cg0ArKJSzJ6Qai6kcu03EAE&adurl=]]></Impression>
+   <Creatives>
+    <Creative id="57859154776" sequence="1">
+     <Linear skipoffset="00:00:05">
+      <Duration>00:00:30</Duration>
+      <MediaFiles>
+       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true"><![CDATA[https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4]]></MediaFile>
+      </MediaFiles>
+     </Linear>
+    </Creative>
+    <Creative id="57857370976" sequence="1">
+     <CompanionAds>
+      <Companion id="57857370976" width="300" height="250">
+       <StaticResource creativeType="image/png"><![CDATA[https://www.nicepng.com/png/full/914-9141005_about-chicken-biryani-ad.png]]></StaticResource>
+       <TrackingEvents>
+        <Tracking event="creativeView"><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssajWu6P1dZo8ZiMA44e8ICW3bsLPknrbj-_IcB1Ndk5oBCPQeIVM_4qnX_5Zt8qlKZAQbWBRtGS5tLlTNONXVsPm7VkCrnr9JIkJyCwK2gj-dHUTaEAOObgtJSF3DpybREqKtrimWSZR2NiNSdfdG6uC0j9T_zWR03Sv4vnasCLDM3mMnvqBh2xxwSKNygjjYEHFj-VPYvoIrYIASA45aZVrIYVmx5N8K8cdkIg9ac0zITYfd7vwABrjvnlXAU2Q&sai=AMfl-YSDrB8Krdkhs6Onqyf8pqxX21HblhRVTsKZDKsh6Ozhg0iuAZCqOWESoeX8K6agXLLfourvdMK-hYkRnLDzYJCgG4l3flo3NRH2n_PxOR4-&sig=Cg0ArKJSzDvr19cCjA9ZEAE&adurl=]]></Tracking>
+       </TrackingEvents>
+       <CompanionClickThrough><![CDATA[https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjssBAa0RpRtUqCWacx1Co7xFIwPHd4pbI_pqZUbKaDXgG9CzFghNuZJXlkan86NUukaGMKsppz9vFqy-C-YCER3mk_DMTvlCJzevWwHjnAvS1KYiAqj0MU1EVWWg18J1jtgxFNyWzRJ9O-upXqT2BJXhao-LI9PD8_xCpQ02tTW_PgS6qNRVelBPWWdpSgOBVikn74hjy-Ukz-j2kmoOzKqQlJfBHTPvHbqc1qaelASbuU6tyYiI9Cs930U&sai=AMfl-YQZb8ZKXrMTpDdtsEpvbnSq7ZkTp2RKh3dxqpYnYfow8UPs7afy7qVrzpFy6NTIm8YiuT7TZigd6nZqYDUNKSN80A2t55Wb6spxmTinYc9v&sig=Cg0ArKJSzEJUMUc6gtLT&adurl=https://developers.google.com/interactive-media-ads/docs/vastinspector_dual]]></CompanionClickThrough>
+      </Companion>
+     </CompanionAds>
+    </Creative>
+   </Creatives>
+   <Extensions><Extension type="waterfall" fallback_index="0"/><Extension type="geo"><Country>IN</Country><Bandwidth>4</Bandwidth><BandwidthKbps>13000</BandwidthKbps></Extension><Extension type="metrics"><FeEventId>CrkrX-ClJce8rtoPhKepwAE</FeEventId><AdEventId>CNqsicKOhusCFReSSwUdv8sBrg</AdEventId></Extension><Extension type="ShowAdTracking"><CustomTracking><Tracking event="show_ad"><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuzWeTb4J5TAtJJn_bW96j5Fhh1zrklTZOQkrA6Biw-WQUAhD9tEeYuJ3XOJHPLYZEj76fTmWB1lJxOLcG80ndWgJPdcsj5ZmkIxVPiYf8jeNnc3YeRpQmz6o204Bnpr_zDaQTZqHttCr9TNFz76jXGJl4CWcsQ2olDKRSwqn-WmnIdNd9fgXVlbiXMTPKv9_FpPMhGzhZ6HglEPFRHp60fZsoQN-1AWC4nY3u-Zc3xzzzwiSGkvk8oeZFHR408B5da&sai=AMfl-YQ5mP4xTWYVVCr-DHopbnEk-rL_aYZkPL9LU2NxvYH-fXpoIesQBi7gdPD-XDXmdCc9O6Sa6YReoQmb8NexY34cmsoUwW9MO4djUwppZENs&sig=Cg0ArKJSzGhptp7OIlXAEAE&adurl=]]></Tracking></CustomTracking></Extension><Extension type="video_ad_loaded"><CustomTracking><Tracking event="loaded"><![CDATA[https://pubads.g.doubleclick.net/pagead/conversion/?ai=BuBIvCrkrX9r_JZekrtoPv5eH8Arw2I_rBgAAABABIKjduyY4AFjYxrLF1wFg5YKAgLwOugEKNzI4eDkwX3htbMgBBcACAuACAOoCJS8xMjQzMTkwOTYvZXh0ZXJuYWwvc2luZ2xlX2FkX3NhbXBsZXP4AoPSHoADAZADmgiYA6wCqAMB4AQB0gUGEKj2ucwCoAYjiAcBkAcCqAfs1RuoB_PRG6gHltgbqAfC2hvYBwHgBwvACAHSCAYIABACGB3YCAKYCwE&sigh=iyV2QVQGPRs&label=video_ad_loaded]]></Tracking></CustomTracking></Extension></Extensions>
+  </InLine>
+ </Ad>
+</VAST>
