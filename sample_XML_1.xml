@@ -13,6 +13,7 @@
       <Duration>00:00:30</Duration>
       <MediaFiles>
        <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="450" scalable="true" maintainAspectRatio="true"><![CDATA[https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="2049" scalable="true" maintainAspectRatio="true"><![CDATA[https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4]]></MediaFile>
       </MediaFiles>
      </Linear>
     </Creative>
